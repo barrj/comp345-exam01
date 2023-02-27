@@ -1,4 +1,4 @@
-package edu.ithaca.dturnbull.util;
+package edu.ithaca.barr.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

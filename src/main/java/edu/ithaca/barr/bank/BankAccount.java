@@ -1,4 +1,4 @@
-package edu.ithaca.dturnbull.bank;
+package edu.ithaca.barr.bank;
 
 public class BankAccount {
 

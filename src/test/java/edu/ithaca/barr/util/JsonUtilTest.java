@@ -1,7 +1,7 @@
-package edu.ithaca.dturnbull.util;
+package edu.ithaca.barr.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import edu.ithaca.dturnbull.bank.BankAccount;
+import edu.ithaca.barr.bank.BankAccount;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
